@@ -504,14 +504,14 @@
 
 @media (max-width: 575px) {
   .header-content {
-    width: 551.6px;
+    width: 438.6px;
     padding-right: 17px;
   }
 }
 
 @media (min-width: 300px) {
   .header-content {
-    width: 551.6px;
+    width: 438.6px;
     padding-right: 17px;
     text-align: center;
   }
@@ -541,7 +541,7 @@
 
 @media (max-width: 767px) {
   .header-content {
-    width: 551.6px;
+    width: 438.6px;
     padding-right: 0;
   }
 }
