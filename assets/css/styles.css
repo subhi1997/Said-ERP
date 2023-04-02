@@ -182,6 +182,7 @@
 .mobile-nav-toggle {
   position: absolute;
   top: 19px;
+  left: 11px;
 }
 
 .navbar-mobile ul {
