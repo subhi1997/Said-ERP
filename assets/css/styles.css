@@ -142,7 +142,7 @@
 
 .mobile-nav-toggle {
   color: black;
-  font-size: 28px;
+  font-size: 37px;
   cursor: pointer;
   display: none;
   line-height: 0;
@@ -181,7 +181,7 @@
 
 .mobile-nav-toggle {
   position: absolute;
-  top: 25px;
+  top: 19px;
 }
 
 .navbar-mobile ul {
